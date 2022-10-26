@@ -3,13 +3,13 @@
   
   #### GitHub Username: djbalabis
   
-  #### GitHub Email Address: djbalabis.com
+  #### GitHub Email Address: darnelljovan@gmail.com
   
   
   # Professional README Generator
   
   ## Description
-  A simple to use README generator for your projects.
+  An easy to use README.md generator for your projects.
   
   ## Table of Contents
   * [Languages](#languages)
@@ -21,26 +21,27 @@
   * [Questions](#questions)
   * [License](#license)
   ## Built With:
-  * 
+  * Javascript
+* Node.js
   
   ## Installation
   - npm install
   
   ## Usage
-  Open repo in integrated terminal.
+  
   
   ## Contributors
   - DJ
   
   ## Website
-  djbalabis.com
+  https;//github.com/djbalabis/Professional-README-Generator
   
   ## Tests
   - npm test
   
   ## Questions
   For additional questions and information, please see the creator's GitHub profile here: github.com/djbalabis/
-  or reach out through email at djbalabis.com.
+  or reach out through email at darnelljovan@gmail.com.
   
   ## License
   Copyright &copy;2022 by DJ.
