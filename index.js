@@ -148,8 +148,10 @@ const writeToFile = (data) => {
     fs.writeFile("./generatedREADME.md", data, (err) => {
       if (err) {
         reject(err);
+// return out of function here so Promise doesn't accidentally execute resolve()
         return;
       }
+// if everything went well, resolve Promise and send successful data to .then()
       resolve({
         ok: true,
         message: "File created!",
